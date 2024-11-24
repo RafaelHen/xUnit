@@ -306,3 +306,6 @@ C:\Users\rafael.lopes\Desktop\Projetos\Testes_xUnit\ApiCatalogoxUnitTests\obj\De
 C:\Users\rafael.lopes\Desktop\Projetos\Testes_xUnit\ApiCatalogoxUnitTests\obj\Debug\net8.0\ApiCatalogoxUnitTests.pdb
 C:\Users\rafael.lopes\Desktop\Projetos\Testes_xUnit\ApiCatalogoxUnitTests\obj\Debug\net8.0\ApiCatalogoxUnitTests.genruntimeconfig.cache
 C:\Users\rafael.lopes\Desktop\Projetos\Testes_xUnit\ApiCatalogoxUnitTests\obj\Debug\net8.0\ref\ApiCatalogoxUnitTests.dll
+C:\Users\rafael.lopes\Desktop\Projetos\Testes_xUnit\ApiCatalogoxUnitTests\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\rafael.lopes\Desktop\Projetos\Testes_xUnit\ApiCatalogoxUnitTests\bin\Debug\net8.0\FakeItEasy.dll
+C:\Users\rafael.lopes\Desktop\Projetos\Testes_xUnit\ApiCatalogoxUnitTests\obj\Debug\net8.0\ApiCatalogoxUnitTests.sourcelink.json
