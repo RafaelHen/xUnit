@@ -18,8 +18,8 @@ public class ProdutosUnitTestController
         dbContextOptions = new DbContextOptionsBuilder<AppDbContext>()
            .UseSqlServer(connectionString)
            .Options;
-    }
-   public ProdutosUnitTestController()
+	}
+	public ProdutosUnitTestController()
     {
         var config = new MapperConfiguration(cfg =>
         {

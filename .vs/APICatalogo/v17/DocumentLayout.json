@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|solutionrelative:apicatalogoxunittests\\unittests\\postprodutounittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|c:\\users\\rafael.lopes\\desktop\\projetos\\testes_xunit\\apicatalogoxunittests\\unittests\\productmockfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|solutionrelative:apicatalogoxunittests\\unittests\\productmockfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\rafael.lopes\\desktop\\projetos\\testes_xunit\\apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|c:\\users\\rafael.lopes\\desktop\\projetos\\testes_xunit\\apicatalogoxunittests\\unittests\\produtosunittestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|solutionrelative:apicatalogoxunittests\\unittests\\produtosunittestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|c:\\users\\rafael.lopes\\desktop\\projetos\\testes_xunit\\apicatalogoxunittests\\unittests\\putprodutounittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|solutionrelative:apicatalogoxunittests\\unittests\\putprodutounittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|c:\\users\\rafael.lopes\\desktop\\projetos\\testes_xunit\\apicatalogoxunittests\\unittests\\productmockfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|solutionrelative:apicatalogoxunittests\\unittests\\productmockfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\rafael.lopes\\desktop\\projetos\\testes_xunit\\apicatalogo\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\rafael.lopes\\desktop\\projetos\\testes_xunit\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|c:\\users\\rafael.lopes\\desktop\\projetos\\testes_xunit\\apicatalogoxunittests\\unittests\\putprodutounittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F06D598-2695-43FB-A1A5-645939A7EDFF}|ApiCatalogoxUnitTests\\ApiCatalogoxUnitTests.csproj|solutionrelative:apicatalogoxunittests\\unittests\\putprodutounittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductMockFactory.cs",
               "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\ApiCatalogoxUnitTests\\UnitTests\\ProductMockFactory.cs",
               "RelativeDocumentMoniker": "ApiCatalogoxUnitTests\\UnitTests\\ProductMockFactory.cs",
@@ -71,12 +75,20 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T21:16:53.77Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutosUnitTestController.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\ApiCatalogoxUnitTests\\UnitTests\\ProdutosUnitTestController.cs",
+              "RelativeDocumentMoniker": "ApiCatalogoxUnitTests\\UnitTests\\ProdutosUnitTestController.cs",
+              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\ApiCatalogoxUnitTests\\UnitTests\\ProdutosUnitTestController.cs",
+              "RelativeToolTip": "ApiCatalogoxUnitTests\\UnitTests\\ProdutosUnitTestController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:51:03.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -116,28 +128,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Controllers\\CategoriasController.cs",
               "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "APICatalogo\\Controllers\\CategoriasController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T21:59:49.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\CategoriaDTO.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\CategoriaDTO.cs",
-              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\CategoriaDTO.cs",
-              "RelativeToolTip": "APICatalogo\\DTOs\\CategoriaDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:32:17.117Z",
               "EditorCaption": ""
             },
             {
@@ -148,105 +147,26 @@
               "RelativeDocumentMoniker": "ApiCatalogoxUnitTests\\UnitTests\\PostProdutoUnitTests.cs",
               "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\ApiCatalogoxUnitTests\\UnitTests\\PostProdutoUnitTests.cs",
               "RelativeToolTip": "ApiCatalogoxUnitTests\\UnitTests\\PostProdutoUnitTests.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAqwDgAAAA3AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T15:32:11.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProdutoDTOMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\Mappings\\ProdutoDTOMappingProfile.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\Mappings\\ProdutoDTOMappingProfile.cs",
-              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\Mappings\\ProdutoDTOMappingProfile.cs",
-              "RelativeToolTip": "APICatalogo\\DTOs\\Mappings\\ProdutoDTOMappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:32:17.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProdutoDTOUpdateResponse.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\ProdutoDTOUpdateResponse.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\ProdutoDTOUpdateResponse.cs",
-              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\ProdutoDTOUpdateResponse.cs",
-              "RelativeToolTip": "APICatalogo\\DTOs\\ProdutoDTOUpdateResponse.cs",
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\CategoriaDTO.cs",
+              "RelativeToolTip": "APICatalogo\\DTOs\\CategoriaDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:32:16.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T21:32:17.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\Response.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\Response.cs",
-              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\Response.cs",
-              "RelativeToolTip": "APICatalogo\\DTOs\\Response.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:32:15.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterModel.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\RegisterModel.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\RegisterModel.cs",
-              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\RegisterModel.cs",
-              "RelativeToolTip": "APICatalogo\\DTOs\\RegisterModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:32:14.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProdutoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\ProdutoDTO.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\ProdutoDTO.cs",
-              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\ProdutoDTO.cs",
-              "RelativeToolTip": "APICatalogo\\DTOs\\ProdutoDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:32:12.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Models\\Produto.cs",
-              "RelativeToolTip": "APICatalogo\\Models\\Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:32:02.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Models\\Categoria.cs",
-              "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:32:01.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "PutProdutoUnitTests.cs",
               "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\ApiCatalogoxUnitTests\\UnitTests\\PutProdutoUnitTests.cs",
               "RelativeDocumentMoniker": "ApiCatalogoxUnitTests\\UnitTests\\PutProdutoUnitTests.cs",
@@ -256,6 +176,90 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T20:38:11.513Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoDTOMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\Mappings\\ProdutoDTOMappingProfile.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\Mappings\\ProdutoDTOMappingProfile.cs",
+              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\Mappings\\ProdutoDTOMappingProfile.cs",
+              "RelativeToolTip": "APICatalogo\\DTOs\\Mappings\\ProdutoDTOMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:32:17.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoDTOUpdateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\ProdutoDTOUpdateResponse.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\ProdutoDTOUpdateResponse.cs",
+              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\ProdutoDTOUpdateResponse.cs",
+              "RelativeToolTip": "APICatalogo\\DTOs\\ProdutoDTOUpdateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:32:16.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\Response.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\Response.cs",
+              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\Response.cs",
+              "RelativeToolTip": "APICatalogo\\DTOs\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:32:15.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\RegisterModel.cs",
+              "RelativeToolTip": "APICatalogo\\DTOs\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:32:14.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\DTOs\\ProdutoDTO.cs",
+              "RelativeToolTip": "APICatalogo\\DTOs\\ProdutoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:32:12.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Models\\Produto.cs",
+              "RelativeToolTip": "APICatalogo\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:32:02.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\rafael.lopes\\Desktop\\Projetos\\Testes_xUnit\\APICatalogo\\Models\\Categoria.cs",
+              "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:32:01.985Z"
             }
           ]
         },
